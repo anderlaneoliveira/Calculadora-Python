@@ -1,3 +1,4 @@
 # Projeto-001-Calculadora
-Calculadora básica \n
+Calculadora básica.
+
 Projeto desenvolvido em Linguagem Python.
