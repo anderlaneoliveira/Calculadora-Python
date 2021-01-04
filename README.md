@@ -1,3 +1,3 @@
-# Projeto-001
-Calculadora simples
-Projeto desenvolvido em Linguagem Python
+# Projeto-001-Calculadora
+Calculadora básica \n
+Projeto desenvolvido em Linguagem Python.
