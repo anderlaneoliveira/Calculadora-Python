@@ -1,4 +1,9 @@
-# Mini-Projeto-001-Calculadora
-Calculadora básica.
+# Projeto Calculadora em Python
 
-Projeto desenvolvido em Linguagem Python.
+# Objetivo
+
+Script para input de dados e cálculos de expressões matemáticas simples utilizando Linguagem Python.
+
+# Ferramentas Utilizadas
+
+- Jupiter Notebook
