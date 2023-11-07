@@ -1,9 +1,9 @@
-# Projeto Calculadora em Python
+# Desenvolvimento de Lógica de Programação em Python
+Projeto Data Science - Calculadora em Python
 
-# Objetivo
-
+# :chart_with_upwards_trend: Objetivo
 Script para input de dados e cálculos de expressões matemáticas simples utilizando Linguagem Python.
 
-# Ferramentas Utilizadas
+# :open_file_folder: Ferramentas Utilizadas
 
 - Jupiter Notebook
