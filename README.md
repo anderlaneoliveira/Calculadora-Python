@@ -6,4 +6,4 @@ Script para input de dados e cálculos de expressões matemáticas simples utili
 
 # :open_file_folder: Ferramentas Utilizadas
 
-- Jupiter Notebook
+- Jupyter Notebook
